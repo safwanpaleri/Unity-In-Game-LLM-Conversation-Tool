@@ -1,0 +1,804 @@
+{
+  "testCases": [
+    {
+      "Chatgpt": "Accountant",
+      "Claude": "Event Manager",
+      "Deepseek": "food engineer",
+      "Gemini": "photographer",
+      "Mistral": "Financial Consultant",
+      "Topic": "Current financial issues"
+    },
+    {
+      "Chatgpt": "Chef ",
+      "Claude": "Singer",
+      "Deepseek": "game programmar",
+      "Gemini": "doctor",
+      "Mistral": "businessman",
+      "Topic": "Climate Change"
+    },
+    {
+      "Chatgpt": "Lawyer",
+      "Claude": "Civil Engineer",
+      "Deepseek": "University Student",
+      "Gemini": "Umemplyed",
+      "Mistral": "Retail Assistant",
+      "Topic": "Veganism"
+    },
+    {
+      "Chatgpt": "Data analyst",
+      "Claude": "Teacher",
+      "Deepseek": "Sound Engineer",
+      "Gemini": "Matematician",
+      "Mistral": "Musician",
+      "Topic": "Noise Pollution"
+    },
+    {
+      "Chatgpt": "Farmer",
+      "Claude": "vetenery doctor",
+      "Deepseek": "animator",
+      "Gemini": "Software programmer",
+      "Mistral": "politician",
+      "Topic": "Eating Meat"
+    },
+    {
+      "Chatgpt": "Lawyer",
+      "Claude": "Food Engineer",
+      "Deepseek": "Data Analyst",
+      "Gemini": "Event Manager",
+      "Mistral": "Farmer",
+      "Topic": "Online Education"
+    },
+    {
+      "Chatgpt": "Teacher",
+      "Claude": "Mechanic",
+      "Deepseek": "Chef",
+      "Gemini": "University Student",
+      "Mistral": "Plumber",
+      "Topic": "Facial Recognition"
+    },
+    {
+      "Chatgpt": "Politician",
+      "Claude": "Security Guard",
+      "Deepseek": "Mechanic",
+      "Gemini": "Biologist",
+      "Mistral": "Banker",
+      "Topic": "Renewable Energy"
+    },
+    {
+      "Chatgpt": "Game Programmer",
+      "Claude": "Banker",
+      "Deepseek": "Financial Consultant",
+      "Gemini": "Mechanic",
+      "Mistral": "Security Guard",
+      "Topic": "Gender Representation in Media"
+    },
+    {
+      "Chatgpt": "Mechanic",
+      "Claude": "Psychologist",
+      "Deepseek": "Sound Engineer",
+      "Gemini": "HR Manager",
+      "Mistral": "Teacher",
+      "Topic": "Healthcare Accessibility"
+    },
+    {
+      "Chatgpt": "Financial Consultant",
+      "Claude": "HR Manager",
+      "Deepseek": "Accountant",
+      "Gemini": "Scientist",
+      "Mistral": "Event Manager",
+      "Topic": "Digital Art"
+    },
+    {
+      "Chatgpt": "Psychologist",
+      "Claude": "Pilot",
+      "Deepseek": "News Reporter",
+      "Gemini": "HR Manager",
+      "Mistral": "Data Analyst",
+      "Topic": "Cryptocurrency"
+    },
+    {
+      "Chatgpt": "Marketing Executive",
+      "Claude": "Paramedic",
+      "Deepseek": "Unemployed",
+      "Gemini": "Teacher",
+      "Mistral": "Scientist",
+      "Topic": "Tourism Impact"
+    },
+    {
+      "Chatgpt": "Accountant",
+      "Claude": "Content Creator",
+      "Deepseek": "Pilot",
+      "Gemini": "Musician",
+      "Mistral": "Zoologist",
+      "Topic": "Smart Cities"
+    },
+    {
+      "Chatgpt": "Musician",
+      "Claude": "News Reporter",
+      "Deepseek": "Film Director",
+      "Gemini": "Zoologist",
+      "Mistral": "Security Guard",
+      "Topic": "Genetic Engineering"
+    },
+    {
+      "Chatgpt": "University Student",
+      "Claude": "Historian",
+      "Deepseek": "Athlete",
+      "Gemini": "Social Worker",
+      "Mistral": "Veterinary Doctor",
+      "Topic": "Recycling"
+    },
+    {
+      "Chatgpt": "Marketing Executive",
+      "Claude": "Musician",
+      "Deepseek": "Mechanic",
+      "Gemini": "Software Programmer",
+      "Mistral": "Food Engineer",
+      "Topic": "Immigration"
+    },
+    {
+      "Chatgpt": "Athlete",
+      "Claude": "News Reporter",
+      "Deepseek": "HR Manager",
+      "Gemini": "Doctor",
+      "Mistral": "Retail Assistant",
+      "Topic": "Genetic Engineering"
+    },
+    {
+      "Chatgpt": "Farmer",
+      "Claude": "Retail Assistant",
+      "Deepseek": "Pilot",
+      "Gemini": "Unemployed",
+      "Mistral": "Game Designer",
+      "Topic": "Work-Life Balance"
+    },
+    {
+      "Chatgpt": "News Reporter",
+      "Claude": "Civil Engineer",
+      "Deepseek": "Veterinary Doctor",
+      "Gemini": "Mathematician",
+      "Mistral": "Zoologist",
+      "Topic": "Cannabis Legalization"
+    },
+    {
+      "Chatgpt": "Economist",
+      "Claude": "Architect",
+      "Deepseek": "Singer",
+      "Gemini": "Banker",
+      "Mistral": "Data Analyst",
+      "Topic": "Youth Unemployment"
+    },
+    {
+      "Chatgpt": "Content Creator",
+      "Claude": "Economist",
+      "Deepseek": "Plumber",
+      "Gemini": "Animator",
+      "Mistral": "Bartender",
+      "Topic": "Minimum Wage"
+    },
+    {
+      "Chatgpt": "Content Creator",
+      "Claude": "UX Designer",
+      "Deepseek": "Teacher",
+      "Gemini": "Paramedic",
+      "Mistral": "Scientist",
+      "Topic": "Privacy in Smart Homes"
+    },
+    {
+      "Chatgpt": "Electrician",
+      "Claude": "Banker",
+      "Deepseek": "Lawyer",
+      "Gemini": "Mechanic",
+      "Mistral": "Game Designer",
+      "Topic": "Recycling"
+    },
+    {
+      "Chatgpt": "Athlete",
+      "Claude": "Retail Assistant",
+      "Deepseek": "Plumber",
+      "Gemini": "Unemployed",
+      "Mistral": "University Student",
+      "Topic": "Video Game Violence"
+    },
+    {
+      "Chatgpt": "Plumber",
+      "Claude": "Nurse",
+      "Deepseek": "Mechanic",
+      "Gemini": "News Reporter",
+      "Mistral": "Civil Engineer",
+      "Topic": "Drone Technology"
+    },
+    {
+      "Chatgpt": "Software Programmer",
+      "Claude": "Architect",
+      "Deepseek": "Photographer",
+      "Gemini": "Content Creator",
+      "Mistral": "Bartender",
+      "Topic": "Smart Cities"
+    },
+    {
+      "Chatgpt": "Biologist",
+      "Claude": "Photographer",
+      "Deepseek": "Social Worker",
+      "Gemini": "Event Manager",
+      "Mistral": "Psychologist",
+      "Topic": "Public Transportation"
+    },
+    {
+      "Chatgpt": "Athlete",
+      "Claude": "Chef",
+      "Deepseek": "Food Engineer",
+      "Gemini": "Sound Engineer",
+      "Mistral": "Mechanic",
+      "Topic": "Social Media Addiction"
+    },
+    {
+      "Chatgpt": "Security Guard",
+      "Claude": "Singer",
+      "Deepseek": "Lawyer",
+      "Gemini": "Veterinary Doctor",
+      "Mistral": "Musician",
+      "Topic": "Fast Fashion"
+    },
+    {
+      "Chatgpt": "Sound Engineer",
+      "Claude": "Film Director",
+      "Deepseek": "Banker",
+      "Gemini": "Economist",
+      "Mistral": "Marketing Executive",
+      "Topic": "3D Printing"
+    },
+    {
+      "Chatgpt": "Content Creator",
+      "Claude": "Paramedic",
+      "Deepseek": "Banker",
+      "Gemini": "Veterinary Doctor",
+      "Mistral": "Marketing Executive",
+      "Topic": "Remote Work"
+    },
+    {
+      "Chatgpt": "Banker",
+      "Claude": "Doctor",
+      "Deepseek": "Civil Engineer",
+      "Gemini": "UX Designer",
+      "Mistral": "Chef",
+      "Topic": "Immigration"
+    },
+    {
+      "Chatgpt": "Civil Engineer",
+      "Claude": "Plumber",
+      "Deepseek": "Mechanic",
+      "Gemini": "Unemployed",
+      "Mistral": "Event Manager",
+      "Topic": "Digital Privacy"
+    },
+    {
+      "Chatgpt": "Lawyer",
+      "Claude": "Accountant",
+      "Deepseek": "Financial Consultant",
+      "Gemini": "Game Designer",
+      "Mistral": "Doctor",
+      "Topic": "Remote Work"
+    },
+    {
+      "Chatgpt": "Retail Assistant",
+      "Claude": "Farmer",
+      "Deepseek": "Architect",
+      "Gemini": "Event Manager",
+      "Mistral": "Security Guard",
+      "Topic": "Eco-Tourism"
+    },
+    {
+      "Chatgpt": "Event Manager",
+      "Claude": "Psychologist",
+      "Deepseek": "Food Engineer",
+      "Gemini": "Farmer",
+      "Mistral": "Teacher",
+      "Topic": "Fast Fashion"
+    },
+    {
+      "Chatgpt": "Mathematician",
+      "Claude": "Financial Consultant",
+      "Deepseek": "Content Creator",
+      "Gemini": "UX Designer",
+      "Mistral": "Software Programmer",
+      "Topic": "Tourism Impact"
+    },
+    {
+      "Chatgpt": "Unemployed",
+      "Claude": "Politician",
+      "Deepseek": "Chef",
+      "Gemini": "Athlete",
+      "Mistral": "Nurse",
+      "Topic": "Gun Control"
+    },
+    {
+      "Chatgpt": "Film Director",
+      "Claude": "UX Designer",
+      "Deepseek": "Paramedic",
+      "Gemini": "Lawyer",
+      "Mistral": "Event Manager",
+      "Topic": "Telemedicine"
+    },
+    {
+      "Chatgpt": "Financial Consultant",
+      "Claude": "Zoologist",
+      "Deepseek": "Photographer",
+      "Gemini": "Game Designer",
+      "Mistral": "Content Creator",
+      "Topic": "3D Printing"
+    },
+    {
+      "Chatgpt": "Sound Engineer",
+      "Claude": "Nurse",
+      "Deepseek": "Chef",
+      "Gemini": "HR Manager",
+      "Mistral": "Plumber",
+      "Topic": "Video Game Violence"
+    },
+    {
+      "Chatgpt": "Economist",
+      "Claude": "Photographer",
+      "Deepseek": "UX Designer",
+      "Gemini": "Mechanic",
+      "Mistral": "Scientist",
+      "Topic": "Gender Representation in Media"
+    },
+    {
+      "Chatgpt": "Security Guard",
+      "Claude": "News Reporter",
+      "Deepseek": "Farmer",
+      "Gemini": "Game Designer",
+      "Mistral": "Financial Consultant",
+      "Topic": "Ocean Pollution"
+    },
+    {
+      "Chatgpt": "Psychologist",
+      "Claude": "Game Programmer",
+      "Deepseek": "Bartender",
+      "Gemini": "Film Director",
+      "Mistral": "Lawyer",
+      "Topic": "Telemedicine"
+    },
+    {
+      "Chatgpt": "HR Manager",
+      "Claude": "Film Director",
+      "Deepseek": "Accountant",
+      "Gemini": "Animator",
+      "Mistral": "Game Programmer",
+      "Topic": "Robotics in Industry"
+    },
+    {
+      "Chatgpt": "Animator",
+      "Claude": "HR Manager",
+      "Deepseek": "Athlete",
+      "Gemini": "Scientist",
+      "Mistral": "Musician",
+      "Topic": "Gun Control"
+    },
+    {
+      "Chatgpt": "Mechanic",
+      "Claude": "Banker",
+      "Deepseek": "Lawyer",
+      "Gemini": "Bartender",
+      "Mistral": "Event Manager",
+      "Topic": "Artificial Intelligence"
+    },
+    {
+      "Chatgpt": "Retail Assistant",
+      "Claude": "Photographer",
+      "Deepseek": "Bartender",
+      "Gemini": "Chef",
+      "Mistral": "University Student",
+      "Topic": "Gender Equality"
+    },
+    {
+      "Chatgpt": "Financial Consultant",
+      "Claude": "Plumber",
+      "Deepseek": "Economist",
+      "Gemini": "Architect",
+      "Mistral": "University Student",
+      "Topic": "Cannabis Legalization"
+    },
+    {
+      "Chatgpt": "Data Analyst",
+      "Claude": "Plumber",
+      "Deepseek": "Film Director",
+      "Gemini": "Retail Assistant",
+      "Mistral": "Event Manager",
+      "Topic": "Renewable Energy"
+    },
+    {
+      "Chatgpt": "Paramedic",
+      "Claude": "HR Manager",
+      "Deepseek": "Plumber",
+      "Gemini": "Doctor",
+      "Mistral": "Content Creator",
+      "Topic": "Minimum Wage"
+    },
+    {
+      "Chatgpt": "Film Director",
+      "Claude": "Pilot",
+      "Deepseek": "Mechanic",
+      "Gemini": "Data Analyst",
+      "Mistral": "Unemployed",
+      "Topic": "Facial Recognition"
+    },
+    {
+      "Chatgpt": "Biologist",
+      "Claude": "Mechanic",
+      "Deepseek": "Lawyer",
+      "Gemini": "Unemployed",
+      "Mistral": "News Reporter",
+      "Topic": "Public Transportation"
+    },
+    {
+      "Chatgpt": "Security Guard",
+      "Claude": "Software Programmer",
+      "Deepseek": "Mathematician",
+      "Gemini": "Unemployed",
+      "Mistral": "Food Engineer",
+      "Topic": "Minimum Wage"
+    },
+    {
+      "Chatgpt": "Civil Engineer",
+      "Claude": "Psychologist",
+      "Deepseek": "Lawyer",
+      "Gemini": "Sound Engineer",
+      "Mistral": "Paramedic",
+      "Topic": "Elder Care"
+    },
+    {
+      "Chatgpt": "Veterinary Doctor",
+      "Claude": "Bartender",
+      "Deepseek": "Marketing Executive",
+      "Gemini": "Zoologist",
+      "Mistral": "Accountant",
+      "Topic": "Artificial Intelligence"
+    },
+    {
+      "Chatgpt": "Nurse",
+      "Claude": "Mathematician",
+      "Deepseek": "Game Designer",
+      "Gemini": "Pilot",
+      "Mistral": "Teacher",
+      "Topic": "Ocean Pollution"
+    },
+    {
+      "Chatgpt": "Athlete",
+      "Claude": "Mechanic",
+      "Deepseek": "Unemployed",
+      "Gemini": "Pilot",
+      "Mistral": "Marketing Executive",
+      "Topic": "Biohacking"
+    },
+    {
+      "Chatgpt": "Veterinary Doctor",
+      "Claude": "Game Programmer",
+      "Deepseek": "Singer",
+      "Gemini": "Plumber",
+      "Mistral": "Biologist",
+      "Topic": "Remote Work"
+    },
+    {
+      "Chatgpt": "Photographer",
+      "Claude": "HR Manager",
+      "Deepseek": "Food Engineer",
+      "Gemini": "Teacher",
+      "Mistral": "Social Worker",
+      "Topic": "Fast Fashion"
+    },
+    {
+      "Chatgpt": "Architect",
+      "Claude": "Scientist",
+      "Deepseek": "Electrician",
+      "Gemini": "Film Director",
+      "Mistral": "Social Worker",
+      "Topic": "AI in Education"
+    },
+    {
+      "Chatgpt": "Civil Engineer",
+      "Claude": "Musician",
+      "Deepseek": "Software Programmer",
+      "Gemini": "Game Programmer",
+      "Mistral": "Bartender",
+      "Topic": "Cryptocurrency"
+    },
+    {
+      "Chatgpt": "Athlete",
+      "Claude": "Politician",
+      "Deepseek": "Veterinary Doctor",
+      "Gemini": "Singer",
+      "Mistral": "Chef",
+      "Topic": "Universal Basic Income"
+    },
+    {
+      "Chatgpt": "Data Analyst",
+      "Claude": "Civil Engineer",
+      "Deepseek": "Historian",
+      "Gemini": "Financial Consultant",
+      "Mistral": "Game Designer",
+      "Topic": "Gun Control"
+    },
+    {
+      "Chatgpt": "Zoologist",
+      "Claude": "Economist",
+      "Deepseek": "Food Engineer",
+      "Gemini": "Photographer",
+      "Mistral": "UX Designer",
+      "Topic": "Animal Rights"
+    },
+    {
+      "Chatgpt": "Civil Engineer",
+      "Claude": "Bartender",
+      "Deepseek": "Architect",
+      "Gemini": "Game Designer",
+      "Mistral": "News Reporter",
+      "Topic": "Healthcare Accessibility"
+    },
+    {
+      "Chatgpt": "Animator",
+      "Claude": "Farmer",
+      "Deepseek": "Financial Consultant",
+      "Gemini": "Businessman",
+      "Mistral": "Singer",
+      "Topic": "Renewable Energy"
+    },
+    {
+      "Chatgpt": "Singer",
+      "Claude": "UX Designer",
+      "Deepseek": "HR Manager",
+      "Gemini": "Plumber",
+      "Mistral": "Psychologist",
+      "Topic": "AI in Education"
+    },
+    {
+      "Chatgpt": "Financial Consultant",
+      "Claude": "Civil Engineer",
+      "Deepseek": "Bartender",
+      "Gemini": "Economist",
+      "Mistral": "Event Manager",
+      "Topic": "Public Transportation"
+    },
+    {
+      "Chatgpt": "Content Creator",
+      "Claude": "Financial Consultant",
+      "Deepseek": "Biologist",
+      "Gemini": "Mechanic",
+      "Mistral": "Businessman",
+      "Topic": "Video Game Violence"
+    },
+    {
+      "Chatgpt": "Pilot",
+      "Claude": "Politician",
+      "Deepseek": "Veterinary Doctor",
+      "Gemini": "UX Designer",
+      "Mistral": "Bartender",
+      "Topic": "Video Game Violence"
+    },
+    {
+      "Chatgpt": "Nurse",
+      "Claude": "Electrician",
+      "Deepseek": "Game Programmer",
+      "Gemini": "Scientist",
+      "Mistral": "Marketing Executive",
+      "Topic": "Privacy in Smart Homes"
+    },
+    {
+      "Chatgpt": "Game Programmer",
+      "Claude": "Sound Engineer",
+      "Deepseek": "Singer",
+      "Gemini": "Teacher",
+      "Mistral": "UX Designer",
+      "Topic": "Eco-Tourism"
+    },
+    {
+      "Chatgpt": "Architect",
+      "Claude": "HR Manager",
+      "Deepseek": "Psychologist",
+      "Gemini": "Bartender",
+      "Mistral": "Farmer",
+      "Topic": "Fast Fashion"
+    },
+    {
+      "Chatgpt": "Software Programmer",
+      "Claude": "Retail Assistant",
+      "Deepseek": "UX Designer",
+      "Gemini": "University Student",
+      "Mistral": "Architect",
+      "Topic": "Streaming Services"
+    },
+    {
+      "Chatgpt": "Scientist",
+      "Claude": "UX Designer",
+      "Deepseek": "Sound Engineer",
+      "Gemini": "Unemployed",
+      "Mistral": "Accountant",
+      "Topic": "Ocean Pollution"
+    },
+    {
+      "Chatgpt": "Sound Engineer",
+      "Claude": "Game Designer",
+      "Deepseek": "Photographer",
+      "Gemini": "Economist",
+      "Mistral": "Chef",
+      "Topic": "Gender Equality"
+    },
+    {
+      "Chatgpt": "Lawyer",
+      "Claude": "Pilot",
+      "Deepseek": "News Reporter",
+      "Gemini": "Athlete",
+      "Mistral": "Psychologist",
+      "Topic": "Cryptocurrency"
+    },
+    {
+      "Chatgpt": "Nurse",
+      "Claude": "Teacher",
+      "Deepseek": "Event Manager",
+      "Gemini": "Mechanic",
+      "Mistral": "Game Programmer",
+      "Topic": "Genetic Engineering"
+    },
+    {
+      "Chatgpt": "Scientist",
+      "Claude": "Banker",
+      "Deepseek": "Historian",
+      "Gemini": "Animator",
+      "Mistral": "Biologist",
+      "Topic": "Public Transportation"
+    },
+    {
+      "Chatgpt": "Chef",
+      "Claude": "Electrician",
+      "Deepseek": "Marketing Executive",
+      "Gemini": "Game Programmer",
+      "Mistral": "Historian",
+      "Topic": "Fake News"
+    },
+    {
+      "Chatgpt": "Mechanic",
+      "Claude": "Data Analyst",
+      "Deepseek": "Farmer",
+      "Gemini": "Nurse",
+      "Mistral": "Architect",
+      "Topic": "Work-Life Balance"
+    },
+    {
+      "Chatgpt": "Content Creator",
+      "Claude": "University Student",
+      "Deepseek": "Electrician",
+      "Gemini": "Civil Engineer",
+      "Mistral": "Sound Engineer",
+      "Topic": "Social Media Addiction"
+    },
+    {
+      "Chatgpt": "Athlete",
+      "Claude": "Pilot",
+      "Deepseek": "Photographer",
+      "Gemini": "Veterinary Doctor",
+      "Mistral": "Bartender",
+      "Topic": "Digital Art"
+    },
+    {
+      "Chatgpt": "Financial Consultant",
+      "Claude": "Veterinary Doctor",
+      "Deepseek": "Electrician",
+      "Gemini": "Zoologist",
+      "Mistral": "Psychologist",
+      "Topic": "Public Transportation"
+    },
+    {
+      "Chatgpt": "Scientist",
+      "Claude": "Politician",
+      "Deepseek": "Mechanic",
+      "Gemini": "Game Designer",
+      "Mistral": "Civil Engineer",
+      "Topic": "Work-Life Balance"
+    },
+    {
+      "Chatgpt": "HR Manager",
+      "Claude": "Data Analyst",
+      "Deepseek": "Accountant",
+      "Gemini": "Financial Consultant",
+      "Mistral": "Bartender",
+      "Topic": "Digital Privacy"
+    },
+    {
+      "Chatgpt": "Historian",
+      "Claude": "Mechanic",
+      "Deepseek": "Plumber",
+      "Gemini": "Lawyer",
+      "Mistral": "Singer",
+      "Topic": "Electric Vehicles"
+    },
+    {
+      "Chatgpt": "Zoologist",
+      "Claude": "Security Guard",
+      "Deepseek": "Pilot",
+      "Gemini": "Chef",
+      "Mistral": "Nurse",
+      "Topic": "Internet Censorship"
+    },
+    {
+      "Chatgpt": "Retail Assistant",
+      "Claude": "Architect",
+      "Deepseek": "Singer",
+      "Gemini": "Chef",
+      "Mistral": "Doctor",
+      "Topic": "Digital Art"
+    },
+    {
+      "Chatgpt": "Electrician",
+      "Claude": "Teacher",
+      "Deepseek": "Businessman",
+      "Gemini": "Banker",
+      "Mistral": "Bartender",
+      "Topic": "Animal Rights"
+    },
+    {
+      "Chatgpt": "Security Guard",
+      "Claude": "Doctor",
+      "Deepseek": "Politician",
+      "Gemini": "Teacher",
+      "Mistral": "Unemployed",
+      "Topic": "AI in Education"
+    },
+    {
+      "Chatgpt": "Civil Engineer",
+      "Claude": "Politician",
+      "Deepseek": "Scientist",
+      "Gemini": "HR Manager",
+      "Mistral": "Businessman",
+      "Topic": "Artificial Intelligence"
+    },
+    {
+      "Chatgpt": "UX Designer",
+      "Claude": "Farmer",
+      "Deepseek": "Social Worker",
+      "Gemini": "Civil Engineer",
+      "Mistral": "Marketing Executive",
+      "Topic": "Cultural Appropriation"
+    },
+    {
+      "Chatgpt": "Sound Engineer",
+      "Claude": "Film Director",
+      "Deepseek": "Economist",
+      "Gemini": "Psychologist",
+      "Mistral": "Bartender",
+      "Topic": "AI in Education"
+    },
+    {
+      "Chatgpt": "Economist",
+      "Claude": "Bartender",
+      "Deepseek": "Teacher",
+      "Gemini": "Historian",
+      "Mistral": "Farmer",
+      "Topic": "Smart Cities"
+    },
+    {
+      "Chatgpt": "Lawyer",
+      "Claude": "Security Guard",
+      "Deepseek": "Farmer",
+      "Gemini": "Mechanic",
+      "Mistral": "Nurse",
+      "Topic": "Facial Recognition"
+    },
+    {
+      "Chatgpt": "Marketing Executive",
+      "Claude": "Unemployed",
+      "Deepseek": "Athlete",
+      "Gemini": "Musician",
+      "Mistral": "HR Manager",
+      "Topic": "Drone Technology"
+    },
+    {
+      "Chatgpt": "Game Programmer",
+      "Claude": "Businessman",
+      "Deepseek": "Mechanic",
+      "Gemini": "Architect",
+      "Mistral": "UX Designer",
+      "Topic": "Artificial Intelligence"
+    }
+  ]
+}
