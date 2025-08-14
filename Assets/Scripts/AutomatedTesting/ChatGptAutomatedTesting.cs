@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using TMPro;
@@ -137,9 +138,6 @@ public class ChatGptAutomatedTesting : MonoBehaviour
     {
         foreach (var testCase in testCasesList.testCases)
         {
-            if(currentTest > 20)
-                stopTest = true;
-
             if (stopTest)
                 yield break;
 
@@ -170,6 +168,8 @@ public class ChatGptAutomatedTesting : MonoBehaviour
 
             yield return new WaitUntil(() => npcllmtester.isCompleted);
         }
+
+        Debug.Log("---- Test Completed --------");
     }
 
     private void SetTopic()

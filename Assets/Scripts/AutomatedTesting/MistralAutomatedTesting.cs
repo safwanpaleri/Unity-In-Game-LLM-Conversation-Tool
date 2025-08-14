@@ -137,9 +137,6 @@ public class MistralAutomatedTesting : MonoBehaviour
     {
         foreach (var testCase in testCasesList.testCases)
         {
-            if (currentTest > 20)
-                stopTest = true;
-
             if (stopTest)
                 yield break;
 
@@ -170,6 +167,8 @@ public class MistralAutomatedTesting : MonoBehaviour
 
             yield return new WaitUntil(() => npcllmtester.isCompleted);
         }
+
+        Debug.Log("---- Test Completed --------");
     }
 
     private void SetTopic()

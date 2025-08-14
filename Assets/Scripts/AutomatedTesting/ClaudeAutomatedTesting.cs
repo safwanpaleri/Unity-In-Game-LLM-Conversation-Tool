@@ -138,10 +138,6 @@ public class ClaudeAutomatedTesting : MonoBehaviour
     {
         foreach (var testCase in testCasesList.testCases)
         {
-
-            if (currentTest > 20)
-                stopTest = true;
-
             if (stopTest)
                 yield break;
 
@@ -172,6 +168,8 @@ public class ClaudeAutomatedTesting : MonoBehaviour
 
             yield return new WaitUntil(() => npcllmtester.isCompleted);
         }
+
+        Debug.Log("---- Test Completed --------");
     }
 
     private void SetTopic()
