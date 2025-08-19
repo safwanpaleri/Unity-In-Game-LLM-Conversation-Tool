@@ -42,7 +42,7 @@ A stress-testing environment for a **single selected LLM**.
 - Can view the result whenever needed.
 ---
 
-### 3. Single NPC Scene
+### 3. Single LLM in Multi Agent Scene
 A controlled scenario with **4 characters** using a **single LLM (Gemini)**.
 - The LLM creates the **entire conversation** in one request.
 - Dialogues are then **assigned** to each character.
@@ -51,7 +51,7 @@ A controlled scenario with **4 characters** using a **single LLM (Gemini)**.
 
 ---
 
-### 4. Individual NPC Scene
+### 4. Multi LLM Agents NPC Scene
 An **advanced interactive environment** with **5 characters**, each powered by a **different LLM**.
 - Dialogue is generated **turn-by-turn**.
 - Includes **interruptions**, **moderator control**, and **player participation** options.
