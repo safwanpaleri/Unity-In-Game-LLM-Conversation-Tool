@@ -66,15 +66,15 @@ A **standalone Tester Script** is provided as a Unity package.
 - Enter your LLM **Add API Key into Script**.
 - Test with pre-coded prompts **immediately** without complex setup.
 - Perfect for quick experiments or adding LLM dialogue capabilities to existing scenes.
-![Screen Shot 2](https://github.com/safwanpaleri/CMP504_MasterProject/blob/main/SavedImage/Screenshot%202025-08-11%20152806.png?raw=true)
+![Screen Shot 2](https://github.com/safwanpaleri/Unity-In-Game-LLM-Conversation-Tool/blob/main/SavedImage/Screenshot%202025-08-11%20152806.png)
 ---
 
 ## 📦 Installation
 1. Clone or download this repository.
 2. Open the project in Unity **2022.3 LTS** or newer.
 3. Add your LLM API keys in the **Inspector->LLM Testing Tool->API KEYS** or directly into script.
-![Screenshot 1](https://github.com/safwanpaleri/CMP504_MasterProject/blob/main/SavedImage/Screenshot%202025-08-11%20152835.png?raw=true)
-![ScreenShot 3](https://github.com/safwanpaleri/CMP504_MasterProject/blob/main/SavedImage/Screenshot%202025-08-11%20152937.png?raw=true)
+![Screenshot 1](https://github.com/safwanpaleri/Unity-In-Game-LLM-Conversation-Tool/blob/main/SavedImage/Screenshot%202025-08-11%20152835.png)
+![ScreenShot 3](https://github.com/safwanpaleri/Unity-In-Game-LLM-Conversation-Tool/blob/main/SavedImage/Screenshot%202025-08-11%20152937.png)
 5. Load any of the example scenes and press **Play**.
 
 ---
@@ -87,6 +87,6 @@ A **standalone Tester Script** is provided as a Unity package.
 ---
 
 ## 📊 Example Results
-![Average Response Time - Mistral](https://github.com/safwanpaleri/CMP504_MasterProject/blob/main/SavedImage/Avg%20Response%20Time%20-%20Mistral.png?raw=true)
-![Metric Score - Mistral](https://github.com/safwanpaleri/CMP504_MasterProject/blob/main/SavedImage/Metric%20Score%20-%20Mistral.png?raw=true)
+![Average Response Time - Mistral](https://github.com/safwanpaleri/Unity-In-Game-LLM-Conversation-Tool/blob/main/SavedImage/Avg%20Response%20Time%20-%20Mistral.png)
+![Metric Score - Mistral](https://github.com/safwanpaleri/Unity-In-Game-LLM-Conversation-Tool/blob/main/SavedImage/Metric%20Score%20-%20Mistral.png)
 
